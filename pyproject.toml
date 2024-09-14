@@ -1,0 +1,14 @@
+[project]
+name = "WebSurfer_bash"
+version = "0.0.1"
+authors = [
+  { name="Sebastian Lientz", email="bash1220131@gmail.com" },
+]
+description = "A WebSurfer"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
